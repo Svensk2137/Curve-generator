@@ -1,2 +1,7 @@
-# Curve-generator
-VHS Curve Bend Point file generator for GIMP
+# VHS Curve Bend Point file generator for GIMP
+made with Lua!
+
+## Usage:
+```
+gimp-curve-generator.exe {intensity  default = 1.5}
+```
